@@ -1,5 +1,6 @@
 # GeoVisualization-of-San-Fransisco-Police-Department-Incidents
 Geo Visualization of San Fransisco Police Department's Incidents using Folium 
+
 Sample Outputs Shown Below: 
 
 
